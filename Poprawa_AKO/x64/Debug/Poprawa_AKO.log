@@ -1,0 +1,13 @@
+﻿  Assembling do_egzaminu_2022_23.asm...
+do_egzaminu_2022_23.asm(1): error A2008: syntax error : .
+do_egzaminu_2022_23.asm(2): error A2008: syntax error : .
+do_egzaminu_2022_23.asm(18): error A2070: invalid instruction operands
+do_egzaminu_2022_23.asm(21): error A2070: invalid instruction operands
+do_egzaminu_2022_23.asm(28): error A2008: syntax error : pusha
+do_egzaminu_2022_23.asm(165): error A2070: invalid instruction operands
+do_egzaminu_2022_23.asm(180): error A2070: invalid instruction operands
+do_egzaminu_2022_23.asm(190): error A2070: invalid instruction operands
+do_egzaminu_2022_23.asm(191): error A2070: invalid instruction operands
+do_egzaminu_2022_23.asm(211): error A2070: invalid instruction operands
+do_egzaminu_2022_23.asm(215): error A2008: syntax error : popa
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\do_egzaminu_2022_23.obj" /W3 /errorReport:prompt  /Tado_egzaminu_2022_23.asm" exited with code 1.
